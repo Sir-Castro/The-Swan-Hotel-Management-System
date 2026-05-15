@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+secret.key
+hash_password.txt
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+.vscode/
+.idea/
+*.log
+*.bak
